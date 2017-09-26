@@ -23,3 +23,6 @@
 
 ## 20170925 Demo
 - http://rpubs.com/ywchiu/Demo20170925
+
+## 20170926 Demo
+- http://rpubs.com/ywchiu/Demo20170926
